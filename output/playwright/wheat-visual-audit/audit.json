@@ -1,0 +1,1258 @@
+{
+  "results": [
+    {
+      "route": "Accueil",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Que voulez-vous faire maintenant ?"
+        },
+        {
+          "level": "h2",
+          "text": "Résumé simple"
+        },
+        {
+          "level": "h2",
+          "text": "Besoin de repartir à zéro ?"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Production du jour",
+        "Créer une société"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Production",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Production comptable"
+        },
+        {
+          "level": "h2",
+          "text": "Commencez ici chaque matin."
+        },
+        {
+          "level": "h2",
+          "text": "Files a traiter"
+        },
+        {
+          "level": "h2",
+          "text": "Banque à rapprocher"
+        },
+        {
+          "level": "h2",
+          "text": "Accès aux états complets"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer une piece",
+        "Créer la facture",
+        "Créer la facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Tableau",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "TVA (TVA Mai 2026)"
+        },
+        {
+          "level": "h2",
+          "text": "Factures impayées"
+        },
+        {
+          "level": "h2",
+          "text": "Délais de paiement observés"
+        },
+        {
+          "level": "h2",
+          "text": "Alertes"
+        },
+        {
+          "level": "h2",
+          "text": "Dernières écritures comptables"
+        },
+        {
+          "level": "h2",
+          "text": "Analyse locale"
+        },
+        {
+          "level": "h2",
+          "text": "Solde bancaire par compte"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Societes",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Sociétés"
+        },
+        {
+          "level": "h2",
+          "text": "ATLAS TRADING"
+        },
+        {
+          "level": "h2",
+          "text": "SOCIÉTÉ ATLAS SARL"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Créer une société",
+        "Active",
+        "Basculer"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Saisie",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ecritures comptables"
+        },
+        {
+          "level": "h2",
+          "text": "Plan comptable CGNC"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Nouvelle écriture"
+      ],
+      "overflow": [
+        {
+          "selector": "table",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "thead",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "tr",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "th",
+          "left": 1155,
+          "right": 1430
+        },
+        {
+          "selector": "tbody",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "tr",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "td.row-actions",
+          "left": 1155,
+          "right": 1430
+        },
+        {
+          "selector": "button",
+          "left": 1345,
+          "right": 1418
+        },
+        {
+          "selector": "svg.lucide.lucide-rotate-ccw",
+          "left": 1346,
+          "right": 1361
+        },
+        {
+          "selector": "path",
+          "left": 1348,
+          "right": 1359
+        }
+      ],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Documents",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Atlas Vision OCR"
+        },
+        {
+          "level": "h2",
+          "text": "Importez une piece, Atlas lit, classe et prepare les donnees comptables."
+        },
+        {
+          "level": "h2",
+          "text": "Documents analyses"
+        },
+        {
+          "level": "h2",
+          "text": "Revue intelligente"
+        },
+        {
+          "level": "h2",
+          "text": "Facture Techno Bureau FR-9876.pdf"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer un document",
+        "Créer le brouillon de facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Factures & paiements",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Factures & paiements"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Nouvelle facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Banque",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Rapprochement bancaire"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer un relevé"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "TVA",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "TVA, clôture et preuves locales"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Paie",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Paie"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Generer ecriture de paie"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Rapports",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Livres et contrôles"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Produire l’état"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Livres fiables",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Livres et contrôles"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Produire l’état"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Liasse fiscale",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Une lecture unique, du compte au bilan."
+        },
+        {
+          "level": "h2",
+          "text": "À-nouveaux contrôlés"
+        },
+        {
+          "level": "h2",
+          "text": "25 tableaux traçables"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Comptabiliser avec confirmation"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Atlas 2.1",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Une lecture unique, du compte au bilan."
+        },
+        {
+          "level": "h2",
+          "text": "Créer une subdivision"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Créer la subdivision"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Atlas AI",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Comprendre le dossier. Agir avec ses vrais contrôles."
+        },
+        {
+          "level": "h2",
+          "text": "Choisissez un modèle"
+        },
+        {
+          "level": "h2",
+          "text": "Demandez, prévisualisez, faites agir Atlas"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Installer le modèle Atlas recommandé"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Export Sage",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Export Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Paramètres d'export Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Mapping des codes du dossier Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Validation avant export"
+        },
+        {
+          "level": "h2",
+          "text": "Aperçu exact de l'export"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Export .TXT"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Analyse locale",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Analyse locale"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Envoyer"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Reglages",
+      "theme": "light",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Securite & reglages"
+        },
+        {
+          "level": "h2",
+          "text": "Profil utilisateur"
+        },
+        {
+          "level": "h2",
+          "text": "Données locales"
+        },
+        {
+          "level": "h2",
+          "text": "Sauvegardes"
+        },
+        {
+          "level": "h2",
+          "text": "Comptes bancaires et grand livre"
+        },
+        {
+          "level": "h2",
+          "text": "Demarrer / reinitialiser"
+        },
+        {
+          "level": "h2",
+          "text": "Preferences"
+        },
+        {
+          "level": "h2",
+          "text": "Journal d'activite"
+        },
+        {
+          "level": "h2",
+          "text": "À propos et licence"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Enregistrer le nom",
+        "Activer",
+        "Sauvegarder",
+        "Nouvelle société"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Accueil",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Que voulez-vous faire maintenant ?"
+        },
+        {
+          "level": "h2",
+          "text": "Résumé simple"
+        },
+        {
+          "level": "h2",
+          "text": "Besoin de repartir à zéro ?"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Production du jour",
+        "Créer une société"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Production",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Production comptable"
+        },
+        {
+          "level": "h2",
+          "text": "Commencez ici chaque matin."
+        },
+        {
+          "level": "h2",
+          "text": "Files a traiter"
+        },
+        {
+          "level": "h2",
+          "text": "Banque à rapprocher"
+        },
+        {
+          "level": "h2",
+          "text": "Accès aux états complets"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer une piece",
+        "Créer la facture",
+        "Créer la facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Tableau",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "TVA (TVA Mai 2026)"
+        },
+        {
+          "level": "h2",
+          "text": "Factures impayées"
+        },
+        {
+          "level": "h2",
+          "text": "Délais de paiement observés"
+        },
+        {
+          "level": "h2",
+          "text": "Alertes"
+        },
+        {
+          "level": "h2",
+          "text": "Dernières écritures comptables"
+        },
+        {
+          "level": "h2",
+          "text": "Analyse locale"
+        },
+        {
+          "level": "h2",
+          "text": "Solde bancaire par compte"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Societes",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Sociétés"
+        },
+        {
+          "level": "h2",
+          "text": "ATLAS TRADING"
+        },
+        {
+          "level": "h2",
+          "text": "SOCIÉTÉ ATLAS SARL"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Créer une société",
+        "Active",
+        "Basculer"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Saisie",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ecritures comptables"
+        },
+        {
+          "level": "h2",
+          "text": "Plan comptable CGNC"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Nouvelle écriture"
+      ],
+      "overflow": [
+        {
+          "selector": "table",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "thead",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "tr",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "th",
+          "left": 1155,
+          "right": 1430
+        },
+        {
+          "selector": "tbody",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "tr",
+          "left": 266,
+          "right": 1430
+        },
+        {
+          "selector": "td.row-actions",
+          "left": 1155,
+          "right": 1430
+        },
+        {
+          "selector": "button",
+          "left": 1345,
+          "right": 1418
+        },
+        {
+          "selector": "svg.lucide.lucide-rotate-ccw",
+          "left": 1346,
+          "right": 1361
+        },
+        {
+          "selector": "path",
+          "left": 1348,
+          "right": 1359
+        }
+      ],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Documents",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Atlas Vision OCR"
+        },
+        {
+          "level": "h2",
+          "text": "Importez une piece, Atlas lit, classe et prepare les donnees comptables."
+        },
+        {
+          "level": "h2",
+          "text": "Documents analyses"
+        },
+        {
+          "level": "h2",
+          "text": "Revue intelligente"
+        },
+        {
+          "level": "h2",
+          "text": "Facture Techno Bureau FR-9876.pdf"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer un document",
+        "Créer le brouillon de facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Factures & paiements",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Factures & paiements"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Nouvelle facture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Banque",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Rapprochement bancaire"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Importer un relevé"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "TVA",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "TVA, clôture et preuves locales"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Paie",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Paie"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Generer ecriture de paie"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Rapports",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Livres et contrôles"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Produire l’état"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Livres fiables",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Livres et contrôles"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Produire l’état"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Liasse fiscale",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Une lecture unique, du compte au bilan."
+        },
+        {
+          "level": "h2",
+          "text": "À-nouveaux contrôlés"
+        },
+        {
+          "level": "h2",
+          "text": "25 tableaux traçables"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Comptabiliser avec confirmation"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Atlas 2.1",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Une lecture unique, du compte au bilan."
+        },
+        {
+          "level": "h2",
+          "text": "Créer une subdivision"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Créer la subdivision"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Atlas AI",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Comprendre le dossier. Agir avec ses vrais contrôles."
+        },
+        {
+          "level": "h2",
+          "text": "Choisissez un modèle"
+        },
+        {
+          "level": "h2",
+          "text": "Demandez, prévisualisez, faites agir Atlas"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Installer le modèle Atlas recommandé"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Export Sage",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Export Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Paramètres d'export Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Mapping des codes du dossier Sage"
+        },
+        {
+          "level": "h2",
+          "text": "Validation avant export"
+        },
+        {
+          "level": "h2",
+          "text": "Aperçu exact de l'export"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Export .TXT"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Analyse locale",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Analyse locale"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Envoyer"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    },
+    {
+      "route": "Reglages",
+      "theme": "dark",
+      "viewport": "1350x861",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Securite & reglages"
+        },
+        {
+          "level": "h2",
+          "text": "Profil utilisateur"
+        },
+        {
+          "level": "h2",
+          "text": "Données locales"
+        },
+        {
+          "level": "h2",
+          "text": "Sauvegardes"
+        },
+        {
+          "level": "h2",
+          "text": "Comptes bancaires et grand livre"
+        },
+        {
+          "level": "h2",
+          "text": "Demarrer / reinitialiser"
+        },
+        {
+          "level": "h2",
+          "text": "Preferences"
+        },
+        {
+          "level": "h2",
+          "text": "Journal d'activite"
+        },
+        {
+          "level": "h2",
+          "text": "À propos et licence"
+        }
+      ],
+      "primary": [
+        "Nouvelle ecriture",
+        "Enregistrer le nom",
+        "Activer",
+        "Sauvegarder",
+        "Nouvelle société"
+      ],
+      "overflow": [],
+      "whiteSurfaces": [],
+      "pageScroll": {
+        "clientWidth": 1103,
+        "scrollWidth": 1103
+      }
+    }
+  ],
+  "runtime": {
+    "cssTokens": {
+      "chart1": "#d78a63",
+      "red": "#f09188",
+      "brandFont": "Georgia, \"Times New Roman\", \"Noto Serif\", serif"
+    },
+    "chartPaint": [
+      {
+        "fill": "currentColor",
+        "stroke": "none",
+        "computedFill": "rgb(215, 138, 99)",
+        "computedStroke": "none"
+      },
+      {
+        "fill": "none",
+        "stroke": "currentColor",
+        "computedFill": "none",
+        "computedStroke": "rgb(215, 138, 99)"
+      },
+      {
+        "fill": "currentColor",
+        "stroke": "none",
+        "computedFill": "rgb(111, 211, 172)",
+        "computedStroke": "none"
+      },
+      {
+        "fill": "none",
+        "stroke": "currentColor",
+        "computedFill": "none",
+        "computedStroke": "rgb(111, 211, 172)"
+      },
+      {
+        "fill": "currentColor",
+        "stroke": "none",
+        "computedFill": "rgb(240, 145, 136)",
+        "computedStroke": "none"
+      },
+      {
+        "fill": "none",
+        "stroke": "currentColor",
+        "computedFill": "none",
+        "computedStroke": "rgb(240, 145, 136)"
+      },
+      {
+        "fill": "currentColor",
+        "stroke": "none",
+        "computedFill": "rgb(215, 138, 99)",
+        "computedStroke": "none"
+      },
+      {
+        "fill": "none",
+        "stroke": "currentColor",
+        "computedFill": "none",
+        "computedStroke": "rgb(215, 138, 99)"
+      },
+      {
+        "fill": "var(--chart-1)",
+        "stroke": "#fff",
+        "computedFill": "rgb(215, 138, 99)",
+        "computedStroke": "rgb(255, 255, 255)"
+      },
+      {
+        "fill": "var(--chart-4)",
+        "stroke": "#fff",
+        "computedFill": "rgb(111, 211, 172)",
+        "computedStroke": "rgb(255, 255, 255)"
+      },
+      {
+        "fill": "var(--red)",
+        "stroke": "#fff",
+        "computedFill": "rgb(240, 145, 136)",
+        "computedStroke": "rgb(255, 255, 255)"
+      },
+      {
+        "fill": "var(--chart-5)",
+        "stroke": "#fff",
+        "computedFill": "rgb(179, 154, 138)",
+        "computedStroke": "rgb(255, 255, 255)"
+      }
+    ],
+    "wordmarkFont": "Georgia, \"Times New Roman\", \"Noto Serif\", serif",
+    "sidebarLogos": [
+      {
+        "src": "brand/wheat-logo-light.png",
+        "opacity": "0"
+      },
+      {
+        "src": "brand/wheat-logo-dark.png",
+        "opacity": "1"
+      }
+    ],
+    "direction": "ltr"
+  },
+  "errors": []
+}

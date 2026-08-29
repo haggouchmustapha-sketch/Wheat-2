@@ -1,0 +1,376 @@
+{
+  "violations": [
+    {
+      "label": "surface:light:Tableau",
+      "id": "scrollable-region-focusable",
+      "impact": "serious",
+      "help": "Scrollable region must have keyboard access",
+      "nodes": [
+        {
+          "target": [
+            ".table-wrap"
+          ],
+          "summary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
+        }
+      ]
+    },
+    {
+      "label": "surface:light:Factures & paiements",
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            "td:nth-child(1) > small"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #8a7566, background color: #ffffff, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "target": [
+            "tr:nth-child(1) > td:nth-child(2) > small"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.35 (foreground color: #8a7566, background color: #ffffff, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "target": [
+            ".is-review > td:nth-child(2) > small"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.89 (foreground color: #8a7566, background color: #fdf1da, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "target": [
+            ".op-row-no-action"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.89 (foreground color: #8a7566, background color: #fdf1da, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "label": "surface:light:Banque",
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            ".op-result-count"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.12 (foreground color: #8a7566, background color: #fcf8f3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "label": "surface:dark:Tableau",
+      "id": "scrollable-region-focusable",
+      "impact": "serious",
+      "help": "Scrollable region must have keyboard access",
+      "nodes": [
+        {
+          "target": [
+            ".table-wrap"
+          ],
+          "summary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
+        }
+      ]
+    },
+    {
+      "label": "surface:dark:Factures & paiements",
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            ".is-review > td:nth-child(2) > small"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.85 (foreground color: #9c877a, background color: #3e2d1e, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "target": [
+            ".op-row-no-action"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.85 (foreground color: #9c877a, background color: #3e2d1e, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "label": "overlay:bank-import",
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            ".op-result-count"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.12 (foreground color: #8a7566, background color: #fcf8f3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "label": "command-palette",
+      "escaped": []
+    },
+    {
+      "label": "entry-modal",
+      "escaped": []
+    },
+    {
+      "label": "bank-import",
+      "escaped": []
+    },
+    {
+      "label": "license",
+      "escaped": []
+    }
+  ],
+  "responsive": [
+    {
+      "route": "Accueil",
+      "requestedWidth": 1180,
+      "actual": "1180x958",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 1180,
+      "actual": "1180x958",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 1180,
+      "actual": "1180x958",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 1180,
+      "actual": "1180x958",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Accueil",
+      "requestedWidth": 980,
+      "actual": "980x795",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 980,
+      "actual": "980x795",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 980,
+      "actual": "980x795",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 980,
+      "actual": "980x795",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Accueil",
+      "requestedWidth": 760,
+      "actual": "760x617",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 760,
+      "actual": "760x617",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 760,
+      "actual": "760x617",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 760,
+      "actual": "760x617",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Accueil",
+      "requestedWidth": 700,
+      "actual": "700x568",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 700,
+      "actual": "700x568",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 700,
+      "actual": "700x568",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 700,
+      "actual": "700x568",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Accueil",
+      "requestedWidth": 640,
+      "actual": "640x519",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 640,
+      "actual": "640x519",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 640,
+      "actual": "640x519",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 640,
+      "actual": "640x519",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": true,
+      "offenders": []
+    },
+    {
+      "route": "Accueil",
+      "requestedWidth": 560,
+      "actual": "560x454",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Saisie",
+      "requestedWidth": 560,
+      "actual": "560x454",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Wheat 1.0.0",
+      "requestedWidth": 560,
+      "actual": "560x454",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": false,
+      "offenders": []
+    },
+    {
+      "route": "Atlas AI",
+      "requestedWidth": 560,
+      "actual": "560x454",
+      "direction": "ltr",
+      "documentOverflow": false,
+      "pageOverflow": true,
+      "offenders": []
+    }
+  ],
+  "rtlMetrics": {
+    "dir": "rtl",
+    "lang": "ar",
+    "rootOverflow": false,
+    "sidebar": {
+      "x": 1118,
+      "y": 0,
+      "width": 232,
+      "height": 861,
+      "top": 0,
+      "right": 1350,
+      "bottom": 861,
+      "left": 1118
+    },
+    "workspace": {
+      "x": 0,
+      "y": 0,
+      "width": 1118,
+      "height": 861,
+      "top": 0,
+      "right": 1118,
+      "bottom": 861,
+      "left": 0
+    }
+  },
+  "errors": [
+    "console: Error: Error invoking remote method 'atlas:bootstrap': Error: Atlas termine une opération de maintenance. Réessayez dans un instant."
+  ]
+}
